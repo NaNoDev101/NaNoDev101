@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Haval Hezha Zrar - Cybersecurity Student at Knowledge University" width="100%">
+<img src="banner.svg" alt="MrNaNo|N4N0 Staff - Cybersecurity Student at Knowledge University" width="100%">
 
 <br>
 
