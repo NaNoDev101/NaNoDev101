@@ -131,23 +131,7 @@ and update the Status to "In progress" or "Completed". -->
 
 ---
 
-## `> connect_with_me`
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-NaNoDev101-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaNoDev101)
-
-</div>
-
-<!-- Add your own links below, then delete this comment.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
--->
-
-**LinkedIn:** *add your link* · **Email:** *add your address*
-
----
 
 ## `> university`
 
